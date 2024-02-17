@@ -7,6 +7,7 @@ def duplicate(plaintext: str) -> str:
     duplicate('hello') -> 'hheelloo'
     """
     # TODO
+    print("lalala")
     pass
 
 
