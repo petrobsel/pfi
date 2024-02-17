@@ -6,8 +6,7 @@ def duplicate(plaintext: str) -> str:
     Duplicate chars in 'plaintext':
     duplicate('hello') -> 'hheelloo'
     """
-    # TODOsDFvASvsdvfasDfvasdfa
-    print("lalala")
+    # TODO
     pass
 
 
