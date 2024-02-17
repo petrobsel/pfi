@@ -25,12 +25,12 @@ def caesar(plaintext: str, move: int) -> str:
     caesar('hello', 1) -> 'ifmmp'
     """
     # TODO
-    pass
+    return "kdjgkdsj"
 
 
 def main() -> None:
     # TODO
-    pass
+    return False
 
 
 if __name__ == '__main__':
